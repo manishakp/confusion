@@ -26,7 +26,7 @@ function About(props) {
                     <RenderLeader leader={leader}  />
             </div>
             
-            <p>Leader {leader.name}</p>
+            //<p>Leader {leader.name}</p>
             );
     });
     return(
